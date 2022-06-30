@@ -13,32 +13,17 @@
   </p>
 </div>
 
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li><a href="#screenshots">Screenshots</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
-
-
 ## About The Project
 
 <img src="README.screenshots/QSSS1.png" alt="">
 
 Site Features:
 * A single input for users to enter their palindrome in question
+* Type "racecar" or "tacocat" for some surprising animations
 * Machine will glow green if the input is a palindrome
-* Surprising animations across the screen
 * Fully responsive design for all devices
 
-### Built With
+## Built With
 
 * Javascript
 * HTML
