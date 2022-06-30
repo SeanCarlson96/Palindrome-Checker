@@ -74,13 +74,21 @@ h1 {
              jump 0.3s 1.2s ease; 
 }
 
+.blue {
+  top: 75px;
+  animation-name: drive;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in;
+}
+
 @keyframes drive {
   from { transform: translateX(0vw) }
   to { transform: translateX(100vw) }
 }
 
 @keyframes wind {
-  from { transform: translateX(-20vw) }
+  from { transform: translateX(-20vw) tanslateY(0vh)}
   to { transform: translateX(120vw) }
 }
 
