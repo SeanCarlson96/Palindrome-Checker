@@ -75,8 +75,8 @@ h1 {
 }
 
 @keyframes drive {
-  from { transform: translateX(-20vw) }
-  to { transform: translateX(120vw) }
+  from { transform: translateX(0vw) }
+  to { transform: translateX(100vw) }
 }
 
 @keyframes wind {
