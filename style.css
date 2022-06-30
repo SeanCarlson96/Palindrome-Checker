@@ -70,16 +70,12 @@ h1 {
 
 .yellow {
   top: 0px;
-  animation: drive 4s infinite ease-in-out,
-             jump 0.3s 1.2s ease; 
+  /*animation: drive 4s infinite ease-in-out, jump 0.3s 1.2s ease; */
 }
 
 .blue {
   top: 75px;
-  animation-name: drive;
-  animation-duration: 6s;
-  animation-iteration-count: infinite;
-  animation-timing-function: ease-in;
+  /*animation-name: drive 6s ease-in;*/
 }
 
 @keyframes drive {
