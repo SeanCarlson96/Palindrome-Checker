@@ -20,7 +20,7 @@
 Site Features:
 * A single input for users to enter their palindrome in question
 * Type "racecar" or "tacocat" for some surprising animations
-* Machine will glow green if the input is a palindrome
+* Machine will glow green if the input is a palindrome, and red if it is not
 * Fully responsive design for all devices
 
 ## Built With
