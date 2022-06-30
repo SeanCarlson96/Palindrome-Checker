@@ -88,7 +88,7 @@ h1 {
 }
 
 @keyframes wind {
-  from { transform: translateX(-20vw) tanslateY(0vh)}
+  from { transform: translateX(-20vw)}
   to { transform: translateX(120vw) }
 }
 
