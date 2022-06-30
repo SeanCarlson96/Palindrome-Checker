@@ -1,7 +1,6 @@
 function assign(){
 let str = document.getElementById("entry").value;
 
-/////////////////////////////
 function palindrome(str) {
   let newStr = str.replaceAll(/[^a-z\d:]/ig, "");
   newStr = newStr.toLowerCase().split("");
@@ -29,8 +28,7 @@ function arrayEquals(firstHalfArr, secondHalfArr) {
 }
 return arrayEquals(firstHalfArr, secondHalfArr);
 }
-/////////////////////////////
-  
+
 var card = document.getElementById("card");
    
 if (palindrome(str)) {
