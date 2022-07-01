@@ -87,15 +87,8 @@ h1 {
   height: 70px;
 }
 
-/*
-#animations {
-  height: 100px;
-  position: fixed;
-  bottom: 20px;
-}
-*/
 @keyframes drive {
-  from { transform: translateX(0vw) }
+  from { transform: translateX(-150px) }
   to { transform: translateX(100vw) }
 }
 
