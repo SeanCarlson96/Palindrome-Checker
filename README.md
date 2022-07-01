@@ -4,7 +4,7 @@
   <h1 align="center">Palindrome Checker</h1>
 
   <p align="center">
-    Palindrome Checker will test your input and glow green if your input is a palindrome.
+    Palindrome Checker will test your input, and glow green if your input is a palindrome.
     <br />
     <a href="https://seancarlson96.github.io/Palindrome-Checker/" target="_blank"><strong>Live Site »</strong></a><br />
     <a href="https://youtu.be/UfwPvcvdyFk" target="_blank"><strong>Demo Video »</strong></a>
