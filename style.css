@@ -77,7 +77,7 @@ h1 {
 .blue {
   top: 75px;
   display: none;
-  animation-name: none;/*drive 6s ease-in;*/
+  animation: none;/*drive 6s ease-in;*/
 }
 
 #animations {
