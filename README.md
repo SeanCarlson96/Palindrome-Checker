@@ -11,11 +11,12 @@
     <br />
     <br />
   </p>
+  <img src="README.screenshots/PCSS1.png" alt="">
 </div>
 
 ## About The Project
 
-<img align="center" src="README.screenshots/PCSS1.png" alt="">
+<img src="README.screenshots/PCSS1.png" alt="">
 
 Site Features:
 * A single input for users to enter their palindrome in question
@@ -36,8 +37,8 @@ Site Features:
   <img src="README.screenshots/PCSS1.png" alt="" height="500">
   <img src="README.screenshots/PCSS2.png" alt="" height="500">
   <img src="README.screenshots/PCSS3.png" alt="">
-  <img src="README.screenshots/PCSScar.png" alt="">
-  <img src="README.screenshots/PCSScat.png" alt="">
+  <img src="README.screenshots/PCSScar.png" alt="" height="500">
+  <img src="README.screenshots/PCSScat.png" alt="" height="500">
   <img src="README.screenshots/PCSS6.png" alt="">
 </div>
 
