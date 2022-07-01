@@ -15,7 +15,7 @@
 
 ## About The Project
 
-<img src="README.screenshots/QSSS1.png" alt="">
+<img src="README.screenshots/PCSS1.png" alt="">
 
 Site Features:
 * A single input for users to enter their palindrome in question
@@ -33,12 +33,12 @@ Site Features:
 ## Screenshots
 
 <div display="flex">
-  <img src="README.screenshots/QSSS1.png" alt="" height="500">
-  <img src="README.screenshots/QSSS2.png" alt="" height="500">
-  <img src="README.screenshots/QSSSempty.png" alt="">
-  <img src="README.screenshots/QSSSemail.png" alt="">
-  <img src="README.screenshots/QSSShours.png" alt="">
-  <img src="README.screenshots/QSSSdb.png" alt="">
+  <img src="README.screenshots/PCSS1.png" alt="" height="500">
+  <img src="README.screenshots/PCSS2.png" alt="" height="500">
+  <img src="README.screenshots/PCSS3.png" alt="">
+  <img src="README.screenshots/PCSScar.png" alt="">
+  <img src="README.screenshots/PCSScat.png" alt="">
+  <img src="README.screenshots/PCSS6.png" alt="">
 </div>
 
 <!-- CONTACT -->
