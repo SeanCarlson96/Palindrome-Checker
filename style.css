@@ -79,11 +79,11 @@ h1 {
   /*display: none;
   animation: none;drive 6s ease-in;*/
 }
-
+/*
 #animations {
   position: fixed;
   bottom: 20px;
-}
+}*/
 
 @keyframes drive {
   from { transform: translateX(0vw) }
