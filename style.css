@@ -69,14 +69,16 @@ h1 {
 }
 
 .yellow {
-  bottom: 110px;
+  bottom: 150px;
+  left: -150px
 }
 #yellow {
   height: 100px;
 }
 
 .blue {
-  bottom: 30px;
+  bottom: 50px;
+  left: -150px
 }
 
 #blue {
@@ -94,6 +96,6 @@ h1 {
 }
 
 @keyframes jump {
-  0%, 100% { bottom: 0px }
-  50% { bottom: 30px; }
+  0%, 100% { bottom: 150px }
+  50% { bottom: 180px; }
 }
