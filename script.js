@@ -41,11 +41,8 @@ if (palindrome(str)) {
 
 if (str == "racecar" || str == "Racecar" || str == "RACECAR"){
   yellow.style.animation = "drive 4s ease-in-out, jump 0.3s 1.2s ease";
-  console.log(yellow.style.animation);
-  //yellow.style.display = "block";
 }
 if (str == "tacocat" || str == "Tacocat" || str == "TACOCAT"){
   blue.style.animation = "drive 6s ease-in";
-  //blue.style.display = "block";
 }
 }
