@@ -15,7 +15,7 @@
 
 ## About The Project
 
-<img src="README.screenshots/PCSS1.png" alt="">
+<img align="center" src="README.screenshots/PCSS1.png" alt="">
 
 Site Features:
 * A single input for users to enter their palindrome in question
