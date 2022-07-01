@@ -30,15 +30,17 @@ return arrayEquals(firstHalfArr, secondHalfArr);
 }
 
 var card = document.getElementById("card");
+var yellow = document.getElementById("card");
+var blue = document.getElementById("card");
    
-if (palindrome(str) && str == "racecar") {
+if (palindrome(str)) {
     card.style.boxShadow = "0 0 80px 0 rgba(0,190,0,0.9)";
-  //if (str == "racecar" || str == "Racecar" || str == "RACECAR"){
+  if (str == "racecar" || str == "Racecar" || str == "RACECAR"){
     yellow.style.animation = "drive 4s infinite ease-in-out, jump 0.3s 1.2s ease";
-  //}
-  //if (str == "tacocat" || str == "Tacocat" || str == "TACOCAT"){
-  //  blue.style.animation = "drive 6s ease-in";
-  //}
+  }
+  if (str == "tacocat" || str == "Tacocat" || str == "TACOCAT"){
+    blue.style.animation = "drive 6s ease-in";
+  }
 } else {
   card.style.boxShadow = "0 0 80px 0 rgba(255,0,0,0.9)";
 }
