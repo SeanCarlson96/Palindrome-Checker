@@ -16,8 +16,6 @@
 
 ## About The Project
 
-<img src="README.screenshots/PCSS1.png" alt="">
-
 Site Features:
 * A single input for users to enter their palindrome in question
 * Type "racecar" or "tacocat" for some surprising animations
