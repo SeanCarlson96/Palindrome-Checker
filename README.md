@@ -4,7 +4,7 @@
   <h1 align="center">Palindrome Checker</h1>
 
   <p align="center">
-    Palindrome Checker will test your input and glow green if your input is a true palindrome.
+    Palindrome Checker will test your input and glow green if your input is a palindrome.
     <br />
     <a href="https://seancarlson96.github.io/Palindrome-Checker/" target="_blank"><strong>Live Site »</strong></a><br />
     <a href="https://youtu.be/UfwPvcvdyFk" target="_blank"><strong>Demo Video »</strong></a>
@@ -19,7 +19,7 @@
 Site Features:
 * A single input for users to enter their palindrome in question
 * Type "racecar" or "tacocat" for some surprising animations
-* Machine will glow green if the input is a palindrome, and red if it is not
+* The card will glow green if the input is a palindrome, and red if it is not
 * Fully responsive design for all devices
 
 ## Built With
