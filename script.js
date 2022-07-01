@@ -45,4 +45,7 @@ if (str == "racecar" || str == "Racecar" || str == "RACECAR"){
 if (str == "tacocat" || str == "Tacocat" || str == "TACOCAT"){
   blue.style.animation = "drive 6s ease-in";
 }
+
+yellow.style.animation = "";
+blue.style.animation = "";
 }
