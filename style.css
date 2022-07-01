@@ -70,14 +70,14 @@ h1 {
 
 .yellow {
   top: 0px;
-  display: none;
-  animation: none;/*drive 4s infinite ease-in-out, jump 0.3s 1.2s ease; */
+  /*display: none;
+  animation: none;drive 4s infinite ease-in-out, jump 0.3s 1.2s ease; */
 }
 
 .blue {
   top: 75px;
-  display: none;
-  animation: none;/*drive 6s ease-in;*/
+  /*display: none;
+  animation: none;drive 6s ease-in;*/
 }
 
 #animations {
