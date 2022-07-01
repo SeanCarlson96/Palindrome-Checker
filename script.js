@@ -30,8 +30,8 @@ return arrayEquals(firstHalfArr, secondHalfArr);
 }
 
 var card = document.getElementById("card");
-var yellow = document.getElementById("card");
-var blue = document.getElementById("card");
+var yellow = document.getElementById("yellow");
+var blue = document.getElementById("blue");
    
 if (palindrome(str)) {
     card.style.boxShadow = "0 0 80px 0 rgba(0,190,0,0.9)";
