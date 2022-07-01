@@ -37,6 +37,7 @@ if (palindrome(str)) {
     card.style.boxShadow = "0 0 80px 0 rgba(0,190,0,0.9)";
   if (str == "racecar" || str == "Racecar" || str == "RACECAR"){
     yellow.style.animation = "drive 4s 1 ease-in-out, jump 0.3s 1.2s ease";
+    console.log(yellow.style.animation);
     //yellow.style.display = "block";
   }
   if (str == "tacocat" || str == "Tacocat" || str == "TACOCAT"){
