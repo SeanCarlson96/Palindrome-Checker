@@ -69,7 +69,7 @@ h1 {
 }
 
 .yellow {
-  top: 0px;
+  bottom: 50px;
   /*display: none;
   animation: none;drive 4s infinite ease-in-out, jump 0.3s 1.2s ease; */
 }
@@ -78,7 +78,7 @@ h1 {
 }
 
 .blue {
-  top: 75px;
+  bottom: 15px;
   /*display: none;
   animation: none;drive 6s ease-in;*/
 }
@@ -87,13 +87,13 @@ h1 {
   height: 70px;
 }
 
-
+/*
 #animations {
   height: 100px;
   position: fixed;
   bottom: 20px;
 }
-
+*/
 @keyframes drive {
   from { transform: translateX(0vw) }
   to { transform: translateX(100vw) }
