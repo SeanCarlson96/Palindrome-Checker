@@ -74,7 +74,7 @@ h1 {
   animation: none;drive 4s infinite ease-in-out, jump 0.3s 1.2s ease; */
 }
 #yellow {
-  top: 0px
+  height: 70px;
 }
 
 .blue {
@@ -84,7 +84,7 @@ h1 {
 }
 
 #blue {
-  top: 50px;
+  height: 70px;
 }
 
 
