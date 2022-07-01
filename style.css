@@ -69,16 +69,16 @@ h1 {
 }
 
 .yellow {
-  bottom: 50px;
+  bottom: 110px;
   /*display: none;
   animation: none;drive 4s infinite ease-in-out, jump 0.3s 1.2s ease; */
 }
 #yellow {
-  height: 70px;
+  height: 100px;
 }
 
 .blue {
-  bottom: 15px;
+  bottom: 30px;
   /*display: none;
   animation: none;drive 6s ease-in;*/
 }
@@ -105,6 +105,6 @@ h1 {
 }
 
 @keyframes jump {
-  0%, 100% { top: 0px }
-  50% { top: -30px; }
+  0%, 100% { bottom: 0px }
+  50% { bottom: -30px; }
 }
