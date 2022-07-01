@@ -7,7 +7,7 @@
     Palindrome Checker will test your input and glow green if your input is a true palindrome.
     <br />
     <a href="https://seancarlson96.github.io/Palindrome-Checker/" target="_blank"><strong>Live Site »</strong></a><br />
-    <a href="" target="_blank"><strong>Demo Video »</strong></a>
+    <a href="https://youtu.be/UfwPvcvdyFk" target="_blank"><strong>Demo Video »</strong></a>
     <br />
     <br />
   </p>
